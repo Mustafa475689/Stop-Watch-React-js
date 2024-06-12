@@ -9,7 +9,7 @@ function App() {
    <div className="dt">
     <h1 className='title'>Stop Watch</h1>
     </div> <br />
-      <StopWatch />
+      <StopWatch  />
       
     </>
   )
